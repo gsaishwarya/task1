@@ -1,0 +1,25 @@
+.head{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+.self{
+    background-color: aqua;
+    color: black;
+}
+.parant{
+    background-color: aquamarine;
+    color: black;
+}
+.blank{
+    background-color: blueviolet;
+    color: black;
+}
+.top{
+    background-color:goldenrod;
+    color: black;
+}
+.detail{
+    background-color: grey;
+}
